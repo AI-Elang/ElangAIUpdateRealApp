@@ -1,0 +1,9 @@
+{
+  "version": "1.1.2",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateRealApp/releases/download/v1.1.2/app-release.apk",
+  "changelog": [
+    "Update Session Login",    "Update fix bug input salmo",    "Update fix bug refresh Etalase",    "Update condition button add etalase"
+  ]
+}
