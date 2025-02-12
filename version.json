@@ -1,0 +1,9 @@
+{
+  "version": "1.3.8",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateRealApp/releases/download/v1.3.8/app-release.apk",
+  "changelog": [
+    "fix bug complaint add page",    "fix bug search list complaint",    "add new background header",    "fix bug category card"
+  ]
+}
