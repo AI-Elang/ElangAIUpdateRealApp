@@ -1,0 +1,9 @@
+{
+  "version": "1.4.2",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateRealApp/releases/download/v1.4.2/app-release.apk",
+  "changelog": [
+    "update new feature dashboard card statistik GA and OSA",    "update new validation version for checkin"
+  ]
+}
