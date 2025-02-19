@@ -4,6 +4,6 @@
   "force_update": true,
   "url": "https://github.com/AI-Elang/ElangAIUpdateRealApp/releases/download/v1.4.4/app-release.apk",
   "changelog": [
-    "Add new feature send location"
+    "fix bug new feature"
   ]
 }
