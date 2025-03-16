@@ -1,0 +1,9 @@
+{
+  "version": "1.5.0",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateRealApp/releases/download/v1.5.0/app-release.apk",
+  "changelog": [
+    "Update dropdown outlet radius 1km",    "Update max digit input SP and Voucher"
+  ]
+}
