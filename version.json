@@ -1,0 +1,9 @@
+{
+  "version": "1.5.1",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateRealApp/releases/download/v1.5.1/app-release.apk",
+  "changelog": [
+    "Update Dropdown outlet form complaint"
+  ]
+}
