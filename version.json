@@ -1,0 +1,9 @@
+{
+  "version": "1.5.3",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateRealApp/releases/download/v1.5.3/app-release.apk",
+  "changelog": [
+    "Fix bug: Upload photo button now opens camera on complaint form page"
+  ]
+}
