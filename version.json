@@ -1,0 +1,9 @@
+{
+  "version": "1.5.5",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateRealApp/releases/download/v1.5.5/app-release.apk",
+  "changelog": [
+    "Update constraints: remove 1 km radius filter from outlet list."
+  ]
+}
