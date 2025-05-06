@@ -1,0 +1,9 @@
+{
+  "version": "2.0.0",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateRealApp/releases/download/v2.0.0/app-release.apk",
+  "changelog": [
+    "Update New Desain App Elang AI",    "Fresh new interface with responsive and lightweight performance",    "New look, new spirit - elevating your AI experience"
+  ]
+}
