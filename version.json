@@ -1,0 +1,9 @@
+{
+  "version": "2.0.4",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateRealApp/releases/download/v2.0.4/app-release.apk",
+  "changelog": [
+    "Fixing upload checkin to server",    "Update new desain slider"
+  ]
+}
