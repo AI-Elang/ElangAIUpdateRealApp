@@ -1,0 +1,9 @@
+{
+  "version": "2.0.9",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateRealApp/releases/download/v2.0.9/app-release.apk",
+  "changelog": [
+    "Update new feature pop up banner on home screen",    "Update get data performance outlet"
+  ]
+}
