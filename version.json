@@ -1,0 +1,9 @@
+{
+  "version": "2.2.4",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateRealApp/releases/download/v2.2.4/app-release.apk",
+  "changelog": [
+    "Update open new feature matpro"
+  ]
+}
