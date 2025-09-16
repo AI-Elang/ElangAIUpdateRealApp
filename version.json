@@ -1,0 +1,9 @@
+{
+  "version": "2.2.7",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateRealApp/releases/download/v2.2.7/app-release.apk",
+  "changelog": [
+    "Update get statistik performance GA",    "Fix bug image complaint"
+  ]
+}
